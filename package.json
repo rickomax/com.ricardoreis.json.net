@@ -1,0 +1,7 @@
+{
+  "name": "com.ricardoreis.json.net",
+  "displayName": "NewtownSoft.Json",
+  "version": "1.0.0",
+  "unity": "2019.3",
+  "description": "NewtownSoft.Json used in TriLib.\nCopyright \u00a9 2019 Kalle Jillheden (jilleJr)\nhttps://github.com/jilleJr/Newtonsoft.Json-for-Unity"
+}
